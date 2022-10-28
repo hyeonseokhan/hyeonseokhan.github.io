@@ -4,8 +4,9 @@
   type: github
   icon: 'fab fa-github'
 -
-  type: twitter
-  icon: 'fab fa-twitter'
+  type: resume
+  icon: 'fas fa-address-card'
+  url: 'https://hyeonseokhan.github.io/resume'
 -
   type: email
   icon: 'fas fa-envelope'
