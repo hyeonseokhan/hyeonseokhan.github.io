@@ -2,8 +2,8 @@
 icon: fas fa-info-circle
 order: 4
 ---
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Toycode&fontAlign=80&fontAlignY=40&color=gradient)
-### Hi there ✋
+![waving](https://capsule-render.vercel.app/api?type=waving&height=190&text=&fontAlign=80&fontAlignY=40&color=gradient)
+## Hi there ✋
 
 I am an experienced application developer using decentralized identity (DID) and blockchain that based on the technology of the Public Key Infrastructure (PKI) security authentication solution.
 
