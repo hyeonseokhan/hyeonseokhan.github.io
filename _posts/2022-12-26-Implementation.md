@@ -1,5 +1,5 @@
 ---
-title: Implementation Algorithm
+title: HACKERRANK-Bigger is Greater
 author: toycode
 date: 2022-12-26 00:00:00 +0000
 categories: [Algorithm, Implementation]
