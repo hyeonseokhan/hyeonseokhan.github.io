@@ -9,4 +9,4 @@ I am an experienced application developer using decentralized identity (DID) and
 
 I was mainly in charge of RESTful API backend development using the Java spring framework. Furthermore, I like to focus on the process of considering and solving problems that occurs during any of project progresses.
 
-In addition, I recently got interested in the performance improvement and practical use of Hyperledger Fabric, a permissioned blockchain platform.
+In addition, I recently got interested in the performance improvement and practical use of Hyperledger Fabric a permission blockchain platform.
