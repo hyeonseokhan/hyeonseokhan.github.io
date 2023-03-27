@@ -8,7 +8,7 @@
   $timeline-width: 4px;
 
   %timeline {
-    content: '';
+    content: "";
     width: $timeline-width;
     position: relative;
     float: left;
@@ -37,9 +37,8 @@
       top: 24px;
     }
 
-    /* Year dot */
-    &::after {
-      content: '';
+    &::after { /* Year dot */
+      content: "";
       display: inline-block;
       position: relative;
       border-radius: 50%;
@@ -64,14 +63,7 @@
 
       &:nth-child(odd) {
         background-color: var(--main-bg, #ffffff);
-        background-image: linear-gradient(
-          to left,
-          #ffffff,
-          #fbfbfb,
-          #fbfbfb,
-          #fbfbfb,
-          #ffffff
-        );
+        background-image: linear-gradient(to left, #ffffff, #fbfbfb, #fbfbfb, #fbfbfb, #ffffff);
       }
 
       &::before {
@@ -117,7 +109,7 @@
 
     &::before {
       /* the dot before post title */
-      content: '';
+      content: "";
       display: inline-block;
       position: relative;
       border-radius: 50%;

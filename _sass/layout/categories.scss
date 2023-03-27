@@ -54,8 +54,7 @@
   }
 }
 
-/* only works on desktop */
-@media (hover: hover) {
+@media (hover: hover) { /* only works on desktop */
   .category-trigger:hover {
     background-color: var(--categories-hover-bg);
   }

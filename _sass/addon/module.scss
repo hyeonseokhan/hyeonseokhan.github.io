@@ -7,7 +7,7 @@
 %heading {
   color: var(--heading-color);
   font-weight: 400;
-  font-family: Lato, 'Microsoft Yahei', sans-serif;
+  font-family: Lato, "Microsoft Yahei", sans-serif;
 }
 
 %section {
@@ -90,10 +90,6 @@
   font-style: normal;
 }
 
-%rounded {
-  border-radius: 6px;
-}
-
 %img-caption {
   + em {
     display: block;
@@ -116,11 +112,6 @@
 
 @mixin no-text-decoration {
   text-decoration: none;
-}
-
-@mixin mt-mb($value) {
-  margin-top: $value;
-  margin-bottom: $value;
 }
 
 @mixin ml-mr($value) {
@@ -150,14 +141,14 @@
   transform: translateX(-50%);
 }
 
-@mixin prompt($type, $fa-content, $fa-style: 'solid') {
+@mixin prompt($type, $fw-icon, $icon-weight: 900) {
   &.prompt-#{$type} {
     background-color: var(--prompt-#{$type}-bg);
 
     &::before {
-      content: $fa-content;
+      content: $fw-icon;
       color: var(--prompt-#{$type}-icon-color);
-      font: var(--fa-font-#{$fa-style});
+      font-weight: $icon-weight;
     }
   }
 }
