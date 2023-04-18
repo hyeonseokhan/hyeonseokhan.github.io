@@ -2,7 +2,7 @@
 title: Java Garbage Collection
 author: toycode
 date: 2023-02-11 00:00:00 +0000
-categories: [CS, GC]
+categories: [Computer Science, GC]
 tags: [Computer Science, Garbage Collection, Java, JVM]
 math: true
 mermaid: true
